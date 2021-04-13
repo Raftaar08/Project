@@ -47,7 +47,7 @@ section{
 
 }
 .dream-area{
-    background-image: url("images/dream-bg.png");
+    background-image: url("images/naiem.png");
     background-repeat: no-repeat;
     background-position: right;
 
@@ -56,12 +56,14 @@ section{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
     height: 80%;
+    background-color: white;
     
 }
 .experience-area{
-    background-image: url(images/exp-bg.png);
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    
     
 }
 #baby{
@@ -71,9 +73,10 @@ section{
 }
 footer p{
     text-align: center;
+    font-size: 12px;
 
 }
-#tui{
+#stack{
     border-left: 7px solid ;
     border-image:linear-gradient(180deg, lightsalmon,tomato);
     border-image-slice: 1;
